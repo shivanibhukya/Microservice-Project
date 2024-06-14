@@ -16,7 +16,7 @@ From `src/shippingservice`, run:
 docker build ./
 ```
 
-## Test
+## Tests
 
 ```
 go test .
